@@ -1,0 +1,1 @@
+# Firefox-config-prefs.js
