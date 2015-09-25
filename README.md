@@ -8,6 +8,7 @@ The installaiton process is relatively simple:
 * Help
 * Troubleshooting Information
 * Open directory
+
 Copy and paste prefs.js file from this repo and replace your current one with it. Restart firefox and you are all set up.
 
 # More info
